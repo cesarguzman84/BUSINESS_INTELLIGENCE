@@ -1,1 +1,1 @@
-# BUSINESS_INTELLIGENCE
+# Proyectos de Inteligencia de Negocios desarrollados
